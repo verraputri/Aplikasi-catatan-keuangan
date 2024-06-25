@@ -1,0 +1,14 @@
+com.example.uangkoo.app-jetified-window-java-1.0.0-beta04-0 C:\Users\User\.gradle\caches\transforms-3\43f0f7a8da99ce7f3d06f54e70644320\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.uangkoo.app-core-1.6.0-1 C:\Users\User\.gradle\caches\transforms-3\57d2891dda6b6f5971418432f20e3ce6\transformed\core-1.6.0\res
+com.example.uangkoo.app-jetified-window-1.0.0-beta04-2 C:\Users\User\.gradle\caches\transforms-3\9705774bd5874e3ca31abbb9def0e54f\transformed\jetified-window-1.0.0-beta04\res
+com.example.uangkoo.app-jetified-annotation-experimental-1.1.0-3 C:\Users\User\.gradle\caches\transforms-3\e8534f4657b5f0d33d7e8bf7dc6542f2\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.uangkoo.app-debug-4 G:\Flutterapps\uangkoo\android\app\src\debug\res
+com.example.uangkoo.app-main-5 G:\Flutterapps\uangkoo\android\app\src\main\res
+com.example.uangkoo.app-pngs-6 G:\Flutterapps\uangkoo\build\app\generated\res\pngs\debug
+com.example.uangkoo.app-resValues-7 G:\Flutterapps\uangkoo\build\app\generated\res\resValues\debug
+com.example.uangkoo.app-rs-8 G:\Flutterapps\uangkoo\build\app\generated\res\rs\debug
+com.example.uangkoo.app-mergeDebugResources-9 G:\Flutterapps\uangkoo\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.uangkoo.app-mergeDebugResources-10 G:\Flutterapps\uangkoo\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.uangkoo.app-merged_res-11 G:\Flutterapps\uangkoo\build\app\intermediates\merged_res\debug
+com.example.uangkoo.app-packaged_res-12 G:\Flutterapps\uangkoo\build\path_provider_android\intermediates\packaged_res\debug
+com.example.uangkoo.app-packaged_res-13 G:\Flutterapps\uangkoo\build\sqlite3_flutter_libs\intermediates\packaged_res\debug
